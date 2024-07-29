@@ -328,8 +328,8 @@
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>Aviso de privacidad</h3>
-                    <p style="font-size:14px" class="fst-italic"><b>spbs</b> En SPBS, tu privacidad es nuestra prioridad. Recopilamos y utilizamos tus datos personales únicamente para procesar tus pedidos y mejorar tu experiencia de compra. No compartiremos tu información con terceros sin tu consentimiento, salvo cuando sea necesario para cumplir con obligaciones legales. Para más información, consulta nuestra política de privacidad completa en nuestro sitio web.</p>
-                    <p><b>spbs</b> </p>
+                    <p style="font-size:14px" class="fst-italic"><b>SPBS</b> En SPBS, tu privacidad es nuestra prioridad. Recopilamos y utilizamos tus datos personales únicamente para procesar tus pedidos y mejorar tu experiencia de compra. No compartiremos tu información con terceros sin tu consentimiento, salvo cuando sea necesario para cumplir con obligaciones legales. Para más información, consulta nuestra política de privacidad completa en nuestro sitio web.</p>
+                    <p><b>SPBS</b> </p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/assets/img/spbs.png" alt="" class="img-fluid">
