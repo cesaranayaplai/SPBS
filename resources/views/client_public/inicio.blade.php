@@ -274,7 +274,7 @@
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Visión</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Aviso de provacidad</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Aviso de privacidad</a>
               </li>
               {{-- <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Iusto ut expedita aut</a>
