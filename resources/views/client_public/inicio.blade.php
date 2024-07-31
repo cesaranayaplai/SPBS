@@ -132,9 +132,7 @@
             {{-- <a href="#book-a-table" class="btn-book animated fadeInUp scrollto">Agenda una cita</a> --}}
           </div>
         </div>
-        <div class="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in" data-aos-delay="200">
-          <a href="https://www.youtube.com/watch?v=8bUwzH9iiZQ" class="glightbox play-btn"></a>
-        </div>
+        
 
       </div>
     </div>
