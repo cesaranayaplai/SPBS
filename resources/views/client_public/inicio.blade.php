@@ -125,7 +125,7 @@
       <div class="row">
         <div class="col-lg-8">
           <h1>Bienvenido a <span>SPBS</span></h1>
-          <h2>Trabajando desde 2019 en el cuidado de tus pestañas.</h2>
+          <h2>Dando la mejor calidad y precio desde 2019.</h2>
 
           <div class="btns">
             <a href="/cat" class="btn-menu animated fadeInUp scrollto">Productos</a>
@@ -168,7 +168,7 @@
               <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
             </ul> --}}
             <p style="font-size: 20px">
-            <b style="color:#F1176D">SPBS</b> se esfuerza por ser la tienda referente en la industria de la belleza, ofreciendo una amplia gama de productos de alta calidad que permiten a nuestros clientes expresar su creatividad, individualidad y estilo único.
+            <b style="color:#F1176D">SPBS</b> se esfuerza por ser la tienda referente en la industria del vestir.
             </p>
           </div>
         </div>
@@ -182,7 +182,7 @@
 
         <div class="section-title">
           <h2>Founders</h2>
-          <p>Fundadores</p>
+          <p>Fundador</p>
         </div>
 
         <div class="row">
@@ -195,7 +195,7 @@
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Sofia Rosales</h4>
-                  <span>Co-fundador</span>
+                  <span>Fundador</span>
                 </div>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -302,8 +302,8 @@
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>Misión</h3>
-                    <p style="font-size:14px" class="fst-italic">Enhance the natural beauty of each individual through exceptional eyelash solutions. We are committed to providing the highest quality products and services, focusing on customer satisfaction, continuous innovation and celebrating diversity. We seek to inspire confidence and self-expression, creating a unique experience that highlights the unique beauty of each pair of eyes.</p>
-                    <p>Realzar la belleza natural de cada individuo a través de soluciones de pestañas excepcionales. Nos comprometemos a proporcionar productos y servicios de la más alta calidad, enfocándonos en la satisfacción del cliente, la innovación continua y la celebración de la diversidad. Buscamos inspirar confianza y autoexpresión, creando una experiencia única que resalte la belleza única de cada par de ojos.</p>
+                    <p style="font-size:14px" class="fst-italic"></p>
+                    <p>Dar el mejor precio a la mejor calidad.</p>
                   </div>
                   {{-- <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/assets/img/specials-2.png" alt="" class="img-fluid">
@@ -314,8 +314,8 @@
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>Visión</h3>
-                    <p style="font-size:14px" class="fst-italic">To be recognized leaders in the eyelash care industry, being a benchmark of excellence, authenticity and innovation. We aim to expand our global presence, reaching customers in all corners of the world with products that not only meet the highest standards but also drive the industry forward. We seek to be a symbol of trust and quality in the world of eyelash enhancement, contributing to the self-esteem and personal expression of our clients.</p>
-                    <p>Ser líderes reconocidos en la industria de cuidado de pestañas, siendo un referente de excelencia, autenticidad e innovación. Aspiramos a expandir nuestra presencia global, llegando a clientes de todos los rincones del mundo con productos que no solo cumplen con los estándares más altos, sino que también impulsan la industria hacia adelante. Buscamos ser un símbolo de confianza y calidad en el mundo del realce de pestañas, contribuyendo a la autoestima y la expresión personal de nuestros clientes.
+                    <p style="font-size:14px" class="fst-italic"></p>
+                    <p>Ser líderes reconocidos en la industria.
                     </p>
                   </div>
                   
@@ -329,7 +329,7 @@
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>Aviso de privacidad</h3>
                     <p style="font-size:14px" class="fst-italic"><b>SPBS</b> En SPBS, tu privacidad es nuestra prioridad. Recopilamos y utilizamos tus datos personales únicamente para procesar tus pedidos y mejorar tu experiencia de compra. No compartiremos tu información con terceros sin tu consentimiento, salvo cuando sea necesario para cumplir con obligaciones legales. Para más información, consulta nuestra política de privacidad completa en nuestro sitio web.</p>
-                    <p><b>SPBS</b> </p>
+                    <p><b></b> </p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/assets/img/spbs.png" alt="" class="img-fluid">
@@ -508,84 +508,7 @@
     </section><!-- End Book A Table Section --> --}}
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>Testimonials</h2>
-          <p>Testimonios</p>
-        </div>
-
-        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  ¡Increíble! No puedo expresar lo feliz que estoy con el servicio de esta empresa de pestañas. Desde el primer momento que entré, me sentí bienvenida y cuidada. El equipo es profesional y amable. Me hicieron sentir cómoda y respondieron todas mis preguntas. ¡Mis pestañas lucen espectaculares! Definitivamente, recomendaría esta empresa a todas mis amigas. ¡Gracias por el increíble trabajo!                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/assets/img/testimonials/t1.png" class="testimonial-img" alt="">
-                <h3>Paula Montenegro</h3>
-                <h4>Diseñadora de modas</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Si bien inicialmente estaba un poco nervioso por probar el servicio de pestañas, mi experiencia en esta empresa fue excepcional. El personal fue muy respetuoso y profesional. Me explicaron todo el proceso y me aseguraron que se adaptarían a mis preferencias. ¡El resultado fue sorprendente! Ahora mis pestañas lucen naturales y resaltan mis ojos. Definitivamente, no es solo para mujeres. ¡Lo recomiendo totalmente!                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/assets/img/testimonials/t2.png" class="testimonial-img" alt="">
-                <h3>Alejandro Gómez</h3>
-                <h4>influencer</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Esta empresa hizo que mi día de boda fuera aún más especial. El equipo comprendió exactamente lo que quería y trabajaron conmigo para lograr el aspecto perfecto para mi boda. Mis pestañas lucían espectaculares, y recibí muchos elogios. Además, la duración del servicio fue rápida, lo que hizo que mi día fuera aún más relajado. ¡Gracias por contribuir a mi día especial con su excelente servicio!                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/assets/img/testimonials/t3.png" class="testimonial-img" alt="">
-                <h3>Jena Olivos</h3>
-                <h4>Emprendedora</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Como alguien que ha estado viniendo aquí regularmente, puedo decir con confianza que esta empresa de pestañas es la mejor. El nivel de atención al cliente es excepcional, y el personal siempre se esfuerza por superar mis expectativas. Mis pestañas siempre se ven impecables y duran mucho tiempo. ¡Es un placer venir aquí y siempre salgo sintiéndome renovada y con una apariencia fresca!                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/assets/img/testimonials/t4.png" class="testimonial-img" alt="">
-                <h3>Mariana Rojas</h3>
-                <h4>Freelancer</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  He sido cliente de esta empresa de pestañas durante años, ¡y no puedo dejar de elogiar su trabajo! La calidad del servicio y la atención al cliente nunca decaen. Mis pestañas siempre lucen impecables y duran mucho tiempo. ¡No puedo imaginar confiar mis pestañas a nadie más! Este lugar es simplemente el mejor.                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-                <img src="assets/assets/img/testimonials/t5.png" class="testimonial-img" alt="">
-                <h3>Sara Larson</h3>
-                <h4>Emprendedora</h4>
-              </div>
-            </div><!-- End testimonial item -->
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </section><!-- End Testimonials Section -->
-
+ 
     {{-- <!-- ======= Gallery Section ======= -->
     <section id="gallery" class="gallery">
 
@@ -713,7 +636,7 @@
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Teléfono:</h4>
-                <p>+1 5589 55488 55</p>
+                <p>+52 1 33 1990 7259</p>
               </div>
 
             </div>
@@ -766,7 +689,7 @@
               <p>
                 C. Independencia 55, Centro <br>
                 44100 Guadalajara, Jal<br><br>
-                <strong>Teléfono:</strong> +1 5589 55488 55<br>
+                <strong>Teléfono:</strong> +52 1 33 1990 7259<br>
                 <strong>Correo:</strong> info@example.com<br>
               </p>
               <div class="social-links mt-3">
@@ -824,7 +747,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/restaurantly-restaurant-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">Sofia & Paulette</a>
+        Designed by <a href="https://bootstrapmade.com/">Sofia</a>
       </div>
     </div>
   </footer><!-- End Footer -->
